@@ -1,0 +1,6 @@
+package br.com.herco.api_games
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
